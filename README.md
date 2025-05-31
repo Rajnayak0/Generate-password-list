@@ -30,7 +30,7 @@ This is a client-side React application and can be run directly in any modern we
 
 1.  **Clone the Repository (if you haven't already):**
     ```bash
-    git clone [https://github.com/your-username/passwords-generator-react.git](https://github.com/your-username/passwords-generator-react.git)
+    git clone https://github.com/your-username/passwords-generator-react.git
     cd passwords-generator-react
     ```
     (Replace `your-username/passwords-generator-react` with your actual repository URL)
