@@ -1,5 +1,5 @@
 
-# Passwords list Generator
+# Passwords list Generator (on going )
 
 A tool for ethical hackers, pentesters, and researching students to generate potential username and password lists.
 
